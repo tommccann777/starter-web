@@ -8,3 +8,5 @@ another new line
 this line was inserted from the newbranch branch
 this is our baseline that we all agree on
 
+this is a change made in master
+
